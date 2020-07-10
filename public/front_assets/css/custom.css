@@ -1,0 +1,17 @@
+.fa-xof:before {
+    content: "CFA";
+    font-size: .7em;
+    vertical-align: -16%;
+}
+.fa-myr:before {
+    content: "MR";
+    font-size: .7em;
+    vertical-align: -16%;
+}
+
+.fa-pkr:before {
+    content: "Rs";
+    font-size: .7em;
+    vertical-align: -16%;
+}
+/* Add here all your css styles (customizations) */
